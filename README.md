@@ -1,6 +1,7 @@
 # hopebot-rewrite
-<img src="https://imgur.com/a/2EsY7qI">
+<img src="https://i.imgur.com/LCrCrBch.jpg">
 
 ## for wash
 urls are in `json/urls.json`
+
 replace token in `json/secret.json`
