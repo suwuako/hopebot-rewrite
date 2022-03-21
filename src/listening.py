@@ -16,7 +16,7 @@ class listening(commands.Cog):
     async def on_message(self, message):
         content = message.content.lower()
         if "hope" in content or "hoping" in content:
-            await message.channel.send(random.choice(self.urls))
+            await message.reply(random.choice(self.urls))
 
 
 def setup(bot):
